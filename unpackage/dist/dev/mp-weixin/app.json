@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/my/my",
+    "pages/guide/guide"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#51A99B",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#51A99B",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/tabBar/home-default.png",
+        "selectedIconPath": "static/tabBar/home-selected.png"
+      },
+      {
+        "pagePath": "pages/guide/guide",
+        "text": "AI导诊",
+        "iconPath": "static/tabBar/guidance-default.png",
+        "selectedIconPath": "static/tabBar/guidance-selected.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tabBar/my-default.png",
+        "selectedIconPath": "static/tabBar/my-selected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

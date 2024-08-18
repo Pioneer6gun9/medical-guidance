@@ -1,0 +1,57 @@
+
+.container.data-v-1cf27b2a {
+  padding: 20rpx;
+  background-color: #f5f5f5;
+}
+.header.data-v-1cf27b2a {
+  background-color: #68A79B;
+  padding: 30rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  margin-bottom: 20rpx;
+}
+.title.data-v-1cf27b2a {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+}
+.content.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: column;
+  gap: 20rpx;
+}
+.section.data-v-1cf27b2a {
+  background-color: #ffffff;
+  border-radius: 20rpx;
+  padding: 20rpx;
+}
+.section-header.data-v-1cf27b2a {
+  border-bottom: 2rpx solid #68A79B;
+  padding-bottom: 10rpx;
+  margin-bottom: 10rpx;
+}
+.section-title.data-v-1cf27b2a {
+  color: #68A79B;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.case-list.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: column;
+  gap: 10rpx;
+}
+.case-item.data-v-1cf27b2a {
+  display: flex;
+  justify-content: space-between;
+  padding: 10rpx;
+  background-color: #f5f5f5;
+  border-radius: 10rpx;
+}
+.case-name.data-v-1cf27b2a {
+  color: #333333;
+  font-size: 28rpx;
+}
+.case-department.data-v-1cf27b2a {
+  color: #68A79B;
+  font-size: 28rpx;
+}
